@@ -1,5 +1,6 @@
 # Latex Resume Project
 **Deprecated.** See https://github.com/devonwa/cv
+
 The goal of this project is to make changes to my resume and share the latex file for others to use.
 
 ## License
